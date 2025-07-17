@@ -1,3 +1,3 @@
 # air-project
-## Note : project it's not finish version
+## Note : it's not finish project ( preview )
 Created By Seifeldeen Ali Mohamed
